@@ -6,6 +6,29 @@ ________________________________________
 📘 Azure Data Engineering Project: Tokyo Olympics Data Pipeline
 Objective:
 To build an end-to-end data pipeline using Azure services that ingests raw data from GitHub, processes and transforms it using Azure Databricks, and stores it in Azure Data Lake and Azure Synapse Analytics for analytics and reporting.
+
+Contents
+
+Data Architecture
+Azure Free Account
+Data Understanding (API)
+Data Ingestion (Bronze Layer)
+Creating Azure Resources
+Azure Data Factory Overview
+Azure Data Lake Gen2
+ETL Pipelines with Azure Data Factory
+Real-Time Scenarios with ADF
+Azure Databricks Resource
+Databricks Cluster & Overview
+Service Principle
+Data Transformation with Databricks
+Apache Spark (Silver Layer)
+Pyspark Tutorial
+Big Data Analytics with Pyspark
+Azure Synapse Analytics (Gold Layer)
+Openrowset() Function
+External Tables in Synapse Analytics
+Integrate Data Warehouse with Power BI
 ________________________________________
 🔷 Step 1: Azure Data Lake Storage Setup
 1.	Created a Storage Account in the Azure portal.
